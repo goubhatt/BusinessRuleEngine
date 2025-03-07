@@ -1,4 +1,5 @@
 package com.example.businessrules;
 
-public class PaymentType {
+public enum PaymentType{
+    PHYSICAL_PRODUCT, BOOK, MEMBERSHIP, MEMBERSHIP_UPGRADE, VIDEO;
 }
