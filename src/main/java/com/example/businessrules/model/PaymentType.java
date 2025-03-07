@@ -1,5 +1,5 @@
-package com.example.businessrules;
+package com.example.businessrules.model;
 
-public enum PaymentType{
+public enum PaymentType {
     PHYSICAL_PRODUCT, BOOK, MEMBERSHIP, MEMBERSHIP_UPGRADE, VIDEO;
 }
